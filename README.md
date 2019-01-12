@@ -1,4 +1,4 @@
-# AzureBootCamp2018 
+# Big Data Microsoft Azure HDInsight PowerBI
 
 Neste repositório contém os scripts de criação da tabela e importação do dataset no apache hive + arquivo .CSV.
 
